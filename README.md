@@ -15,4 +15,4 @@
   </a>
 </p>
 <img src="https://cdn.discordapp.com/attachments/1118830427717767180/1122799730343280640/scythe.gif" width="300"/>
-<h5 align="center">Warning: It is possible that I don't master some of the mentioned skills or haven't used them in a long time. Additionally, due to aesthetic reasons, I couldn't add more skills. However, in case it is necessary to use them, it wouldn't take me much effort to relearn them.</h5>
+<h5 align="center">Warning: Additionally, due to aesthetic reasons, I couldn't add more skills</h5>
