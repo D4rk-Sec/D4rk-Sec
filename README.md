@@ -10,7 +10,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,md,bash,python,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=linux,git,md,bash,python,html,css,js,mysql,php,docker,discord" />
   </a>
 </p>
 <img src="https://cdn.discordapp.com/attachments/1118830427717767180/1122799730343280640/scythe.gif" width="300"/>
