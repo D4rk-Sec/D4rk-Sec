@@ -3,7 +3,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+i'm+D4rkSec" alt="Typing SVG" /></a>
 
  <h3 align="center">Ethical Hacker</h3>
-  <h2 align="center">Advertencia: es posible que no domine algunas de las habilidades mencionadas o que no las haya usado en mucho tiempo. Además, por cuestiones estéticas, no pude añadir más habilidades. Sin embargo, en caso de que sea necesario usarlos, no me costaría mucho volver a aprenderlos.</h2>
+  <h4 align="center">Advertencia: es posible que no domine algunas de las habilidades mencionadas o que no las haya usado en mucho tiempo. Además, por cuestiones estéticas, no pude añadir más habilidades. Sin embargo, en caso de que sea necesario usarlos, no me costaría mucho volver a aprenderlos.</h4>
 </div >
 <br>
 <div identificación="centro" align="center">
