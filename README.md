@@ -16,8 +16,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,git,python,html,css,java,js,mysql,php,nodejs,docker,c,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=go,vscode,unity,unreal,perl,lua,linux,bash,dotnet,wordpress,bots,blender,ps,discord" />
+    <img src="https://skillicons.dev/icons?i=python,html,md,perl,css,java,js,mysql,go,php,lua,c,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,bots,discord,unity,unreal,androidstudio,docker,vscode,nodejs,dotnet,wordpress,blender,ps" />
   </a>
 </p>
 
