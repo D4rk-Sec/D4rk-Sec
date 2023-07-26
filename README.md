@@ -11,8 +11,8 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,md,git,python,html,css,java,js,mysql,php,nodejs,docker,c,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=lua,linux,bash,dotnet,wordpress,bots,blender,discord" />
+    <img src="https://skillicons.dev/icons?i=py,md,git,python,html,css,java,js,mysql,php,nodejs,docker,c,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,perl,lua,linux,bash,dotnet,wordpress,bots,blender,ps,discord" />
   </a>
 </p>
 <img src="https://cdn.discordapp.com/attachments/1118830427717767180/1122799730343280640/scythe.gif" width="300"/>
