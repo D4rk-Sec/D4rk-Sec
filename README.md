@@ -14,5 +14,5 @@
     <img src="https://skillicons.dev/icons?i=go,vscode,unity,unreal,perl,lua,linux,bash,dotnet,wordpress,bots,blender,ps,discord" />
   </a>
 </p>
-<img src="https://cdn.discordapp.com/attachments/1118830427717767180/1122799730343280640/scythe.gif" width="300"/>
+<img src="https://cdn.discordapp.com/attachments/1118830427717767180/1122799730343280640/scythe.gif" width="290"/>
 <h5 align="center">Warning: Additionally, due to aesthetic reasons, I couldn't add more skills</h5>
